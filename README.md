@@ -1,6 +1,6 @@
 ## RaspberryPi temperature and humidity logger
 
-This project is a little script I made (I know it's ugly) to log the ambient temperature, humidity and CPU temperature of my RPi.    
+This project is a little script I made to log the ambient temperature, humidity and CPU temperature of my RPi.    
 It uses a DS18B20 sensor for the temperature (good precision) and a cheap DHT11 sensor for the humidity.    
 It also logs the CPU temperature of the RPi
 
